@@ -1,0 +1,24 @@
+.tag-btn {
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  border-radius: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.active-tag-btn {
+  height: 30px;
+  background-color: #f3aa4e;
+  border: none;
+  border-radius: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  color: #ffffff;
+  cursor: pointer;
+}
